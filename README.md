@@ -90,5 +90,4 @@ namespace UnitTestProject
 ```
 
 ## SQL-скрипт базы данных скачать тут:
-
-https://github.com/Rrqv/Stepenkov-PR6p2/tree/main
+https://github.com/Rrqv/Stepenkov_Pyshonin-PR6p2/tree/main
