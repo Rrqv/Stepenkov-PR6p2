@@ -2,7 +2,7 @@
 
 ## Скриншот содержимого таблицы с пользователями из СУБД Microsoft SQL Server
 
-![image](![image](https://github.com/user-attachments/assets/b942aa53-a29a-4049-a0be-ad239f342bec)
+![image](https://github.com/user-attachments/assets/b942aa53-a29a-4049-a0be-ad239f342bec)
 )
 
 
